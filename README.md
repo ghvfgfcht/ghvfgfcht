@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=H디ㅣㅐ,%20I'm%20Jinha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7396CF&height=240&section=header&text=Helloㅐ,%20I'm%20Jinha%20(●’◡’●)ﾉ&fontSize=36&animation=twinkling&fontAlignY=36)
 
 
 <div align=center>
