@@ -11,12 +11,12 @@
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
  ![SpringBoot](https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
- ![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=C&logoColor=purple)
+ ![C](https://img.shields.io/badge/C-%A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
 
 <br>
 
  ### ✔ Infra
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![AWS](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  ![GithubActions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubActions&logoColor=white")
 
